@@ -11,7 +11,9 @@ namespace Calculator
 
             // Display title as the C# console calculator app.
             Console.WriteLine("Calculadora de consola en C#\r");
-            Console.WriteLine("Autor:Cristian michel Jorquera  Gonzalez  Guadalupe ");
+            Console.WriteLine("Autor:Cristian michel Jorquera  Gonzalez");
+            Console.WriteLine("Autor:Guadalupe Jorquera Caicedo");
+
             Console.WriteLine("------------------------\n");
 
             // Ask the user to type the first number.
